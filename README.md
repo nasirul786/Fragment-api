@@ -23,7 +23,7 @@ This API allows you to build a fully automated **Telegram Stars selling bot**.
 
 ```
 
-[https://api.arijitiyan.cc/frgmnt/](https://api.arijitiyan.cc/frgmnt/)
+https://api.arijitiyan.cc/frgmnt/
 
 ```
 
