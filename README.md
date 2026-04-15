@@ -1,5 +1,7 @@
 # ⭐ Fragment Stars API
 
+## [ GO TO VERSION 2.0 API ](https://fragment-api.arijitiyan.cc/doc)
+
 Buy Telegram Stars for any user using their username.  
 Payment is automatically deducted from your TON wallet.
 
